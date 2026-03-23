@@ -1,23 +1,23 @@
-# Detective Raymond Cross
+# Детектив Реймонд Крос
 
-**Occupation:** Private Investigator  
-**Age:** 42  
-**Hometown:** Arkham, Massachusetts
+**Заняття:** Приватний детектив  
+**Вік:** 42  
+**Рідне місто:** Аркгем, Массачусетс
 
-## Description
+## Опис
 
-Raymond Cross is a weathered private investigator with a sharp eye and a deep distrust of the supernatural. He was hired to locate the missing Professor Blackwood and is determined to see the case through, no matter what he finds in that house.
+Реймонд Крос — загартований приватний детектив із гострим оком і глибокою недовірою до надприродного. Його найняли для пошуку зниклого професора Блеквуда, і він сповнений рішучості довести справу до кінця, що б він не знайшов у тому будинку.
 
-## Attributes
+## Характеристики
 
-- STR 55 / CON 60 / SIZ 65 / DEX 50 / APP 45
-- INT 70 / POW 55 / EDU 75 / SAN 62 / HP 12
+- СИЛ 55 / ВИТР 60 / РОЗ 65 / ВПР 50 / ЗОВ 45
+- ІНТЕЛ 70 / ВОЛ 55 / ОСВІТА 75 / ОСУДН 62 / ЗД 12
 
-## Skills
+## Навички
 
-- Spot Hidden 65%, Listen 60%, Firearms (Handgun) 55%
-- Psychology 50%, Library Use 45%, Persuade 40%
+- Помітити приховане 65%, Прислухатися 60%, Вогнепальна зброя (Пістолет) 55%
+- Психологія 50%, Бібліотечний пошук 45%, Переконання 40%
 
-## Notes
+## Примітки
 
-Raymond keeps a loaded .38 revolver in his coat pocket and a flask of bourbon for steadying his nerves.
+Реймонд тримає заряджений револьвер .38 у кишені пальта та фляжку бурбону, щоб заспокоїти нерви.

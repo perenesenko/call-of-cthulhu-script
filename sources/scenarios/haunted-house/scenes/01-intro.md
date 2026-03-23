@@ -1,20 +1,20 @@
-# Scene 1 – Arrival at Blackwood Estate
+# Сцена 1 – Прибуття до маєтку Блеквудів
 
-## Setting
+## Місце дії
 
-A stormy October evening. The investigators' car rattles down a long gravel drive overhung with skeletal oaks. At the end stands the Blackwood estate: three storeys of grey stone, every window dark save for a single pale flicker on the top floor.
+Бурхлива жовтнева ніч. Автомобіль слідчих гуркоче довгою гравійною алеєю, обступленою скелетоподібними дубами. Наприкінці постає маєток Блеквудів: три поверхи сірого каменю, усі вікна темні, крім одного — блідого мерехтіння на верхньому поверсі.
 
-## Read Aloud
+## Зачитайте вголос
 
-> The iron gate groans as you push it open. Rain lashes the overgrown lawns and dead leaves spiral in the wind. Ahead, the house watches you with empty eyes. Someone — or something — lit that candle on the third floor. Professor Blackwood has been missing for six days.
+> Залізні ворота скрипять, коли ви їх відчиняєте. Дощ хльоскає по занедбаних галявинах, мертве листя кружляє на вітрі. Попереду будинок дивиться на вас порожніми очима. Хтось — або щось — запалив ту свічку на третьому поверсі. Професор Блеквуд зник шість днів тому.
 
-## Keeper Notes
+## Нотатки Хранителя
 
-- Allow investigators to examine the gatehouse (locked, dusty, undisturbed for weeks).
-- A successful **Spot Hidden** roll notices fresh mud on the front steps — bare footprints leading *out* of the house, not in.
-- The front door is unlocked.
+- Дозвольте слідчим оглянути сторожку (замкнена, запилена, нетронута кілька тижнів).
+- Успішна перевірка **Помітити приховане** виявляє свіжий бруд на вхідних сходах — сліди босих ніг, що ведуть *з* будинку, а не до нього.
+- Вхідні двері відчинені.
 
-## Possible Outcomes
+## Можливі результати
 
-- Investigators enter the house → proceed to Scene 2.
-- Investigators call the police → local sheriff arrives in 30 minutes, dismisses concerns, leaves.
+- Слідчі входять до будинку → переходять до Сцени 2.
+- Слідчі викликають поліцію → місцевий шериф приїжджає за 30 хвилин, відмахується від занепокоєнь і їде.
