@@ -7,3 +7,26 @@
 - Keep the project structure simple and flat.
 - Avoid introducing new technologies or external dependencies.
 - Prefer modifying existing files over creating new abstractions.
+
+## LANGUAGE (STRICT RULE)
+
+ALL generated narrative content MUST be written in Ukrainian.
+
+- Even if issues are written in English, output must be Ukrainian
+- NEVER generate scenario content in English
+- If unsure, default to Ukrainian
+
+## Applies to:
+- scenes
+- characters
+- descriptions
+- dialogues
+- narrative text
+
+## Allowed in English:
+- file names
+- technical fields
+- code
+
+## Failure condition:
+If any generated narrative content is in English, the task is incorrect and must be fixed.
